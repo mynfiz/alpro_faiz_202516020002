@@ -1,0 +1,16 @@
+ALGORITMA
+
+Mulai
+Masukan nilai p & l
+Hitung menggunakan rumus (L = p * l)
+Tampilkan Luas (L)
+Selesai
+
+PSEUDOCODE
+
+Mulai
+Masukan nilai panjang dan lebar persegi panjang
+hitung luas menggunakan rumus (L = p * l)
+Tampilkan luas persegi panjang (L)
+Selesai
+

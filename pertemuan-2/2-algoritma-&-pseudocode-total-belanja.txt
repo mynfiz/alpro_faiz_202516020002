@@ -1,0 +1,27 @@
+ALGORITMA
+
+Mulai
+tampilkan program perhitungan belanja
+Masukan variabel harga1, harga2, harga3
+Hitung total dengan rumus (total=hb1+hb2+hb3)
+Tampilkan total sebelum diskon
+hitung diskon (diskon=0.05*total)
+tampilkan diskon
+hitung harga setelah diskon (harga_bersih=total-diskon)
+tampilkan harga setelah diskon (harga_bersih)
+tampilkan terimakasih
+selesai
+
+
+PSEUDOCODE
+
+mulai
+tampilkan text "program perhitungan belanja"
+masukan variabel harga (hb1, hb2, hb3)
+hitung total belanja sebelum diskon menggunakan rumus (total=hb1+hb2+hb3)
+tampilkan total sebelum diskon
+hitung diskon 5% dengan rumus (diskon=0.05*total)
+tampilkan diskon "diskon (5%) : ....."
+hitung total setelah diskon 5% dengan rumus (harga_bersih=total-diskon)
+tampilkan harga_bersih / total setelah diskon 5%
+tampilkan text "terimakasih
